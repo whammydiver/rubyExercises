@@ -21,7 +21,7 @@ elements = []
   elements << i
 end
 
-elements.each {|i| puts "Elements was: #{i}"}
+elements.each {|i| puts "Element was: #{i}"}
 
 the_count.each do |number|
   puts "the_count.each do |number| loop: #{number}"
